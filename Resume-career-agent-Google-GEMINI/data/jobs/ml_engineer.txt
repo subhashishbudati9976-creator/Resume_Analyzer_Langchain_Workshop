@@ -1,0 +1,17 @@
+Job Title: Machine Learning Engineer
+
+Required Skills:
+Python
+Machine Learning
+Deep Learning
+SQL
+Git
+Docker
+Model Deployment
+APIs
+
+Preferred Skills:
+Cloud
+MLOps
+FastAPI
+LLM Applications

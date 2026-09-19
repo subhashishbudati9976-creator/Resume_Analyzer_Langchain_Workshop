@@ -1,0 +1,3 @@
+Deep Learning
+Topics: Neural Networks, CNN, RNN, Transformers, Optimization.
+Recommended sequence: neural network basics -> deep learning fundamentals -> Transformers.

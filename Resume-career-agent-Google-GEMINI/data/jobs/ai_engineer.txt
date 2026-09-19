@@ -1,0 +1,19 @@
+Job Title: AI Engineer
+
+Required Skills:
+Python
+Machine Learning
+Deep Learning
+SQL
+Git
+Docker
+RAG
+LangChain
+Vector Databases
+APIs
+
+Preferred Skills:
+Cloud
+FastAPI
+Agentic AI
+LLM Applications
