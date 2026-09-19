@@ -1,0 +1,2 @@
+Retrieval-Augmented Generation (RAG)
+Topics: document loading, chunking, embeddings, vector stores, retrievers, grounded generation and evaluation.

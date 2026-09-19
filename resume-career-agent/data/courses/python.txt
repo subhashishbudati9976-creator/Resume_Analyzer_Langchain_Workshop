@@ -1,0 +1,2 @@
+Python
+Topics: functions, data structures, file handling, exceptions, modules, APIs and object-oriented programming.

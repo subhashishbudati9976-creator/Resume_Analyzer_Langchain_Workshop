@@ -1,0 +1,15 @@
+Job Title: Data Scientist
+
+Required Skills:
+Python
+SQL
+Statistics
+Machine Learning
+Pandas
+Power BI
+Data Visualization
+
+Preferred Skills:
+Deep Learning
+Cloud
+Experiment Design

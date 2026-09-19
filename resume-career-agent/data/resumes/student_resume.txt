@@ -1,0 +1,24 @@
+Venky Naidu
+B.Tech Computer Science Engineering
+
+Career Objective:
+To build a career as an AI Engineer and work on machine learning,
+generative AI and intelligent applications.
+
+Technical Skills:
+Python, SQL, Machine Learning, Power BI, Git
+
+Projects:
+1. Customer Churn Prediction
+   Developed a machine learning project using Python and scikit-learn
+to predict customer churn.
+
+2. Sales Dashboard
+   Developed an interactive dashboard using Power BI.
+
+Internship:
+Data Analytics Intern - 3 months
+
+Certifications:
+Python Programming
+Machine Learning Fundamentals
